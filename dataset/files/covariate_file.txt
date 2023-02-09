@@ -1,0 +1,7 @@
+filename	md5	label	replicate	sex	icu	group
+mapping/star/SAMN15934916/all_mates/out/star.SAMN15934916.all_mates.gene_counts.tab	a798de8e4154401e400398daac6f2bc4	SAMN15934916	1	female	no	COVID_19
+mapping/star/SAMN15934919/all_mates/out/star.SAMN15934919.all_mates.gene_counts.tab	c0f3bbcf6c2d51c8e38aa12177250fcc	SAMN15934919	1	female	no	COVID_19
+mapping/star/SAMN15934922/all_mates/out/star.SAMN15934922.all_mates.gene_counts.tab	8c37fc5fb059317c5a108f379e8cf35f	SAMN15934922	1	female	no	COVID_19
+mapping/star/SAMN15934987/all_mates/out/star.SAMN15934987.all_mates.gene_counts.tab	b57c2a8bd65054ee19baeec8e9d31360	SAMN15934987	1	male	yes	non_COVID_19
+mapping/star/SAMN15934988/all_mates/out/star.SAMN15934988.all_mates.gene_counts.tab	8c4e67a17931a156320dfae6bdc7d444	SAMN15934988	1	male	no	non_COVID_19
+mapping/star/SAMN15934989/all_mates/out/star.SAMN15934989.all_mates.gene_counts.tab	9a9425d2b2d016ae3d275ce5df0c51e6	SAMN15934989	1	female	no	non_COVID_19
