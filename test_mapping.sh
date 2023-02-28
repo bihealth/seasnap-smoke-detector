@@ -20,8 +20,10 @@ echo "Checking configuration with sea-snap mapping l -np"
 
 if grep "Error" mapping_check.out ; then
   echo There was a problem checking the yaml configuration.
-  echo Check the file mapping_check.out for details.
+  echo Check the file ${testdir}/out_mapping/mapping_check.out for details.
   exit 1
+else
+  echo "configuration appears OK"
 fi
 
 

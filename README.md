@@ -24,3 +24,7 @@ Instructions
  * run `test_mapping.sh <test_dir>`. This is a shortcut to generate the
  sample info and start the seasnap pipeline on the cluster (`--submit
  slurm`). However, you might want to test alternatives.
+ * check that the mapping pipeline finished its run without errors by
+ looking at `<test_dir>/out_mapping/pipeline_log.err`.
+ * switch to the DE environment (by default, seasnap-de).
+ * run `test_DE.sh <test_dir>`.

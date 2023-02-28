@@ -35,5 +35,6 @@ mv $target/out_DE/DE_config.yaml $target/out_DE/DE_config.yaml_orig
 cp $source/files/mapping_config.yaml $target/out_mapping/ || exit 1
 cp $source/files/DE_config.yaml $target/out_DE/ || exit 1
 cp $source/files/covariate_file.txt $target/out_DE/ || exit 1
+ln -s ../out_mapping/mapping ${target}/out_DE/mapping
 
 echo "All seems to be OK until now."
