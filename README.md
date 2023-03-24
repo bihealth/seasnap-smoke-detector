@@ -7,7 +7,15 @@ set GSE157103. Six samples from COVID patients and controls have been
 selected in total, and only 250,000 paired reads were kept from each
 sample.
 
-Instructions
+## Preparation
+
+Install the conda environments for seasnap.
+
+Install the R package Rseasnap:
+
+`remotes::install_github("bihealth/Rseasnap")`
+
+## Instructions
 
  * make sure you have the environments seasnap-mapping and seasnap-de
  defined, preferably constructed with the yaml files from the seasnap
